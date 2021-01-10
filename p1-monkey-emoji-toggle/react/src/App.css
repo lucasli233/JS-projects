@@ -1,0 +1,19 @@
+
+.App{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  /* align-items: center; */
+}
+
+.emoji {
+  user-select: none;
+  font-size: 10rem;
+  background: none;
+  border: none;
+}
+
+.emoji:visited {
+  border: none;
+}
