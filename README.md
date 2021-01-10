@@ -5,3 +5,5 @@
 p1: click to toggle between monkey emojis
 
 p2: information query to grid
+
+p3: bubble hover scale
